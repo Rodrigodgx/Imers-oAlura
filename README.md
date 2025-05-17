@@ -18,7 +18,7 @@ No coração da nutrição eficaz está a personalização. Cada paciente é ún
 * **Hiperpersonalização Inteligente:** A IA Gemini é capaz de processar uma vasta gama de variáveis possibilitando a criação de combinações inteligentes e variadas**, garantindo adesão e satisfação.
 * **Flexibilidade Dinâmica:** Alterações e ajustes no plano tornam-se instantâneos. Novas preferências? Mudança de objetivo? A IA adapta o plano em segundos.
 
-## Como Funciona a Mágica? (Explicado para Todos)
+## Como Funciona a Mágica?
 
 O NutriIA não substitui o nutricionista; ele o **empodera**.
 
