@@ -40,3 +40,7 @@ O NutriIA não é apenas uma ferramenta; é um **divisor de águas** no mercado 
 * **Mercado em Crescimento:** A demanda por serviços de nutrição personalizados está em ascensão global.
 * **Solução Escalável:** A tecnologia de IA permite atender a um grande volume de profissionais e pacientes com eficiência.
 * **Impacto Significativo:** Melhorar a saúde e a qualidade de vida de milhares de pessoas, otimizando o trabalho de profissionais essenciais.
+
+🚀 Como Executar o Projeto
+Acesse o notebook no Google Colab: Link para o Notebook
+Execute as células do notebook na ordem apresentada
